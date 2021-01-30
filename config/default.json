@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://Mohanned_Ahmed:SIKagDtrodI0wSlC@cluster0.ayaay.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "clientId": "AXZjkziMbFWlprZi6HpEdBuF_L__AIDDzwzOCtRlC8i4vEpMIr815MH354s-YIp0Ze7FE2qh9N4LbaiF"
+}
